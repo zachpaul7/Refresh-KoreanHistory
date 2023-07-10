@@ -1,7 +1,6 @@
 ![한국사새로고침메인](https://github.com/zachpaul7/Refresh-KoreanHistory/assets/60610390/fd8c04c8-920e-4cce-97d2-56d2515303e7)
 
-# 프로젝트명
-한국사 새로고침
+# 한국사 새로고침
 
 ## 프로젝트 소개
 Unity 엔진을 기반으로 제작된 2D 횡스크롤 어드벤처 게임
