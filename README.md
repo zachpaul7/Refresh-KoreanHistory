@@ -18,6 +18,9 @@ SW중심대학 공동 HACKATHON 2023에서 제작하게 되었다.
   
 - 플랫폼 : 안드로이드
 
+## 다운로드
+- https://drive.google.com/file/d/1iYR1XKL40q9eGClYF31LF_TV4f4eMfwh/view?usp=drive_link
+
 ## 시연영상 및 기술서
 - 시연영상 : https://drive.google.com/file/d/1llRuHy0xQjvjzFEqB4ZznF2j7diB028A/view?usp=drive_link
 - PPT : https://drive.google.com/file/d/1llRuHy0xQjvjzFEqB4ZznF2j7diB028A/view?usp=drive_link
