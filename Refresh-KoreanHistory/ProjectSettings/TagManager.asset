@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Gound
+  - bullet
+  - potal1
+  - Undefined
+  - 2floor
+  - L_EndPoint
+  - R_EndPoint
+  - L_Sword
+  - R_Sword
+  - L_enemy
+  - R_enemy
+  - Enemy_Att
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - EnemyWeapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3441792417
+    locked: 0
+  - name: Foreground
+    uniqueID: 3237206683
+    locked: 0
+  - name: ship
+    uniqueID: 2676008295
+    locked: 0

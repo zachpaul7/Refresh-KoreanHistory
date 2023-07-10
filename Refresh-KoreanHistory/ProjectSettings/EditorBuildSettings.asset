@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_StartScene.unity
+    guid: 3d53fca59e95586468294c49dd09d78e
+  - enabled: 1
+    path: Assets/Scenes/1_ImjinExplain.unity
+    guid: 7a38b00c874a9bb43aef011e2c2d09c9
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 472743124a8bd864697003a1502ada5b
+  - enabled: 1
+    path: Assets/Scenes/BossStageReal.unity
+    guid: c2fc69e8874314cfbbc25e77220e3452
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: 7158076400b786a44a34c2ca441e9029
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: 05fcb82b75a3bf1428ca772c804f12bf
+  - enabled: 1
+    path: Assets/Scenes/DeathScene.unity
+    guid: 55e6cf381fb43954194f96d588b74e7e
+  m_configObjects: {}
