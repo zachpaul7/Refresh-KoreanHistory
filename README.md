@@ -27,6 +27,7 @@ SW중심대학 공동 HACKATHON 2023에서 제작하게 되었다.
 
 ## 협업한 팀원
 - 팀장 : 오준서 - 630cb@naver.com
+- 팀원 : 박신영 - zachpaul707@gmail.com
 - 팀원 : 김도균 - bogyun0420@gmail.com
 - 팀원 : 류나정 - rnj1010@gmail.com
 - 팀원 : 조현수 - johyeonsu08@gmail.com
