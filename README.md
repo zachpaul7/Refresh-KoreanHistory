@@ -1,6 +1,8 @@
-![한국사새로고침메인](https://github.com/zachpaul7/Refresh-KoreanHistory/assets/60610390/fd8c04c8-920e-4cce-97d2-56d2515303e7)
 
 # 한국사 새로고침
+
+
+![한국사새로고침메인](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/40d49322-a5ac-4863-9d4f-185544771493)
 <br/>
 
 ## 🖥 프로젝트 소개
