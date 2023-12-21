@@ -1,4 +1,4 @@
-
+![한국사새로고침메인](https://github.com/zachpaul7/Refresh-KoreanHistory/assets/60610390/fd8c04c8-920e-4cce-97d2-56d2515303e7)
 
 # 한국사 새로고침
 <br/>
@@ -25,6 +25,10 @@ SW중심대학 공동 HACKATHON 2023에서 제작하게 되었다.
 - 팀원 : 류나정(디자인) - rnj1010@gmail.com
 - 팀원 : 조현수(맵 배치 및 스토리씬) - johyeonsu08@gmail.com
 - 팀원 : 조해림(맵 배치) - djfdma999@naver.com
+
+### 🎤 관련 기사
+- [[SW중심대학 공동해커톤 2023] 소드(역사 인식 제고를 위한 역사 교육 게임서비스 '한국사새로고침')](https://www.swuniv.kr/540522002/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=16848119&t=board)
+
 <br/>
 
 ## 🎮 게임
@@ -56,6 +60,12 @@ SW중심대학 공동 HACKATHON 2023에서 제작하게 되었다.
 |![한0](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/2d243d78-258c-45a9-9496-4674aabd2499)|![한2](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/9ff766b2-2d7e-4bbd-ac3c-bf2f36d23b2a)|
 |스토리씬|엔딩씬| 
 |![한1](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/47c3b3dd-06b8-412b-b860-fb472a74bc64)|![한3](https://github.com/zachpaul7/Conquering_the_Universe_Alone/assets/60610390/b5d17fdc-4913-4634-8528-f801cd2ecd0e)|
+<br/>
+
+## 🏆 시상
+|SW중심대학 공동 HACKATHON 2023 **우수상**|
+|---|
+||
 <br/>
 
 ## 🛒 사용한 에셋
