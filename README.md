@@ -52,7 +52,7 @@ SW중심대학 공동 HACKATHON 2023에서 제작하게 되었다.
 
 ### 게임 플레이 영상
 - 게임 플레이 영상
-  - [```[한국사 새로고침 게임플레이 영상]```]([https://drive.google.com/file/d/1llRuHy0xQjvjzFEqB4ZznF2j7diB028A/view?usp=drive_link](https://drive.google.com/file/d/1BnIbWBd6cL5npPdvqQrUmOgPrKxAYe3Q/view?usp=drive_link))
+  - [```[한국사 새로고침 게임플레이 영상]```](https://drive.google.com/file/d/1BnIbWBd6cL5npPdvqQrUmOgPrKxAYe3Q/view?usp=drive_link)
 
 ### 게임 플레이
 - 게임 플레이
